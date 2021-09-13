@@ -6,7 +6,7 @@ public class ConverteTemperatura {
 		// Desafio converter grau Celsius para Fahrenheit
 		
 		double temperaturaCelsius  = 200;
-		double temperaturaFahrenheit = -100;
+		double temperaturaFahrenheit = 150;
 		
 		double celsius;
 		double fahrenheit;
